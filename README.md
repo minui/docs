@@ -10,6 +10,6 @@ In this repository, we use the issue tracker to share concepts.
 
 Members:
 
-[Ron Korving](https://github.com/ronkorving)
-[Mark Everitt](https://github.com/qubyte)
-[Brian de Heus](https://github.com/briandeheus)
+- [Ron Korving](https://github.com/ronkorving)
+- [Mark Everitt](https://github.com/qubyte)
+- [Brian de Heus](https://github.com/briandeheus)
